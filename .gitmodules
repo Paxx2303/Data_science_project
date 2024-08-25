@@ -1,3 +1,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/jakevdp/PythonDataScienceHandbook
+[submodule "documentation_2"]
+	path = documentation_2
+	url = https://github.com/microsoft/Data-Science-For-Beginners
