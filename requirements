@@ -1,0 +1,7 @@
+torch==2.4.1
+torchvision==0.19.1
+nltk==3.9.1
+tqdm==4.66.5
+numpy==2.1.2
+h5py==3.12.1
+imageio==2.25.1
